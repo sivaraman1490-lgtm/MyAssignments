@@ -1,0 +1,15 @@
+var empname ='Sivaraman';
+console.log(empname);
+console.log(typeof empname);
+var phone= 9952152331;
+console.log(phone);
+console.log(typeof phone);
+var companyname ='TCS';
+console.log(companyname);
+console.log(typeof companyname);
+var IsAutomation = true;
+console.log(IsAutomation);
+console.log(typeof IsAutomation);
+var hasplaywright ;
+console.log("hasplaywright");
+console.log(typeof hasplaywright);
